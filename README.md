@@ -36,6 +36,6 @@
 <hr/>
 <h2>Контакты</h2>
 <ul>
-  <li>Email: <a href="mailto:akimov-eduard@yandex.ru" title="Пишите письма">akimov-eduard@yandex.ru</a></li>
-  <li>Telega: <a href="https://t.me/akimoved" title="Запрягайте телегу">@akimoved</a></li>
+  <li><b>Email:</b> <a href="mailto:akimov-eduard@yandex.ru" title="Пишите письма">akimov-eduard@yandex.ru</a></li>
+  <li><b>Telega:</b> <a href="https://t.me/akimoved" title="Запрягайте телегу">@akimoved</a></li>
 </ul>
