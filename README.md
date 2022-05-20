@@ -4,6 +4,7 @@
 <h3 align="center">Я — начинающий frontend-разработчик. Сейчас учусь в&nbsp;Яндекс.Практикуме на&nbsp;<a href="https://practicum.yandex.ru/web/" target="_blank" title="Подробное описание и программа курса">веб-разработчика</a>.</h3>
 <hr/>
 <p>Вкратце о&nbsp;себе могу сказать следующее:</p>
+<p><img src="https://img.shields.io/badge/javascript-%23323330.svg" height="16" alt="JavaScript"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg" height="16" alt="HTML">  <img src="https://img.shields.io/badge/css3-%231572B6.svg" height="16" alt="CSS3"> <img src="https://img.shields.io/badge/node.js-6DA55F" height="16" alt="Node.js"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg" height="16" alt="Webpack"> <img src="https://img.shields.io/badge/git-%23F05033.svg" height="16" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg" height="16" alt="GitHub"></p>
 <ul>
   <li>мне уже&nbsp;44 (как время летит!);</li>
   <li>живу в&nbsp;Краснодаре;</li>
